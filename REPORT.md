@@ -22,12 +22,6 @@
 
 ## 3. Визуализация поля и распределения вероятностей
 
-- [outputs/example_heatmap.svg](outputs/example_heatmap.svg) — пример доски и
-  тепловой карты вероятностей после появления первой информации;
-- [outputs/shot_distribution.svg](outputs/shot_distribution.svg) — сравнение
-  распределений числа ходов для разных стратегий;
-- [outputs/summary.json](outputs/summary.json) — сырые итоговые числа эксперимента.
-
 На `example_heatmap.svg`:
 снимок сразу после первого успешного попадания с учётом всех промахов до него.
 В запуске история была:
