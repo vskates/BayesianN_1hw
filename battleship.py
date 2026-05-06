@@ -273,39 +273,6 @@ class RandomStrategy:
     def choose_shot(self, state, rng):
         return rng.choice(state.unknown_cells()), {"mode": "random"}
 
-
-class HuntTargetStrategy:
-    name = "hunt_target"
-
-    def choose_shot(self, state, rng):
-        unknown = set(state.unknown_cells())
-        cand = []
-
-        for cl in clusters(state.hits):
-            d = ship_dir(cl)
-            if d == "H":
-                cl = sorted(cl, key=lambda x: x[1])
-                for cell in ((cl[0][0], cl[0][1] - 1), (cl[-1][0], cl[-1][1] + 1)):
-                    if cell in unknown:
-                        cand.append(cell)
-            elif d == "V":
-                cl = sorted(cl, key=lambda x: x[0])
-                for cell in ((cl[0][0] - 1, cl[0][1]), (cl[-1][0] + 1, cl[-1][1])):
-                    if cell in unknown:
-                        cand.append(cell)
-            else:
-                for hit in cl:
-                    for cell in neigh4(hit):
-                        if cell in unknown:
-                            cand.append(cell)
-
-        if cand:
-            cand = sorted(set(cand), key=lambda x: (-abs(x[0] - 4.5) - abs(x[1] - 4.5)))
-            return cand[0], {"mode": "target"}
-
-        return rng.choice(state.unknown_cells()), {"mode": "hunt"}
-
-
 class BayesianStrategy:
     name = "bayes"
 

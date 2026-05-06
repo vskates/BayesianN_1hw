@@ -5,7 +5,6 @@ import random
 from battleship import (
     BayesianStrategy,
     HiddenBoard,
-    HuntTargetStrategy,
     ObservationState,
     RandomStrategy,
     play_game,
@@ -45,8 +44,7 @@ def simulate():
     boards = [random_board(board_rng).ships for _ in range(80)]
     strategies = [
         ("bayes", BayesianStrategy(), random.Random(seed + 1)),
-        ("hunt_target", HuntTargetStrategy(), random.Random(seed + 2)),
-        ("random", RandomStrategy(), random.Random(seed + 3)),
+        ("random", RandomStrategy(), random.Random(seed + 2)),
     ]
     res = {}
 
@@ -58,7 +56,7 @@ def simulate():
         res[name + "_shots"] = shots
 
     render_histogram_svg(
-        [("Bayes", res["bayes_shots"]), ("Hunt-target", res["hunt_target_shots"]), ("Random", res["random_shots"])],
+        [("Bayes", res["bayes_shots"]), ("Random", res["random_shots"])],
         os.path.join(OUT, "shot_distribution.svg"),
         "Distribution of shots needed to finish the game",
     )
