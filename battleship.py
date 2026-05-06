@@ -122,6 +122,7 @@ def inferred_water(hits, sunk, misses):
 
 class HiddenBoard:
     def __init__(self, ships):
+        # Настоящая скрытая расстановка кораблей.
         self.ships = [tuple(ship) for ship in ships]
         self.ship_cells = set()
         self.which_ship = {}
@@ -132,6 +133,7 @@ class HiddenBoard:
                 self.which_ship[cell] = i
 
     def fire(self, cell):
+        # Возвращает промах, попадание или потопление.
         self.opened.add(cell)
         if cell not in self.ship_cells:
             return "miss", None
@@ -141,6 +143,7 @@ class HiddenBoard:
         return "hit", None
 
     def all_sunk(self):
+        # Проверка, что все клетки кораблей уже открыты.
         return self.ship_cells <= self.opened
 
 
