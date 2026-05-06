@@ -1,0 +1,226 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="536" height="558">
+<rect width="100%" height="100%" fill="#fcfbf7"/>
+<text x="48" y="34" font-size="24" font-family="Arial" fill="#222">Posterior probability heatmap after first evidence</text>
+<text x="64" y="56" font-size="14" font-family="Arial" fill="#333">1</text>
+<text x="24" y="97" font-size="14" font-family="Arial" fill="#333">A</text>
+<text x="108" y="56" font-size="14" font-family="Arial" fill="#333">2</text>
+<text x="24" y="141" font-size="14" font-family="Arial" fill="#333">B</text>
+<text x="152" y="56" font-size="14" font-family="Arial" fill="#333">3</text>
+<text x="24" y="185" font-size="14" font-family="Arial" fill="#333">C</text>
+<text x="196" y="56" font-size="14" font-family="Arial" fill="#333">4</text>
+<text x="24" y="229" font-size="14" font-family="Arial" fill="#333">D</text>
+<text x="240" y="56" font-size="14" font-family="Arial" fill="#333">5</text>
+<text x="24" y="273" font-size="14" font-family="Arial" fill="#333">E</text>
+<text x="284" y="56" font-size="14" font-family="Arial" fill="#333">6</text>
+<text x="24" y="317" font-size="14" font-family="Arial" fill="#333">F</text>
+<text x="328" y="56" font-size="14" font-family="Arial" fill="#333">7</text>
+<text x="24" y="361" font-size="14" font-family="Arial" fill="#333">G</text>
+<text x="372" y="56" font-size="14" font-family="Arial" fill="#333">8</text>
+<text x="24" y="405" font-size="14" font-family="Arial" fill="#333">H</text>
+<text x="416" y="56" font-size="14" font-family="Arial" fill="#333">9</text>
+<text x="24" y="449" font-size="14" font-family="Arial" fill="#333">I</text>
+<text x="460" y="56" font-size="14" font-family="Arial" fill="#333">10</text>
+<text x="24" y="493" font-size="14" font-family="Arial" fill="#333">J</text>
+<rect x="48" y="70" width="44" height="44" fill="rgb(255,245,240)" stroke="#777"/>
+<text x="55" y="96" font-size="12" font-family="Arial" fill="#333">0.00</text>
+<rect x="92" y="70" width="44" height="44" fill="rgb(255,245,240)" stroke="#777"/>
+<text x="99" y="96" font-size="12" font-family="Arial" fill="#333">0.00</text>
+<rect x="136" y="70" width="44" height="44" fill="rgb(255,245,240)" stroke="#777"/>
+<text x="143" y="96" font-size="12" font-family="Arial" fill="#333">0.00</text>
+<rect x="180" y="70" width="44" height="44" fill="rgb(255,245,240)" stroke="#777"/>
+<text x="187" y="96" font-size="12" font-family="Arial" fill="#333">0.00</text>
+<rect x="224" y="70" width="44" height="44" fill="rgb(255,245,240)" stroke="#777"/>
+<text x="231" y="96" font-size="12" font-family="Arial" fill="#333">0.00</text>
+<rect x="268" y="70" width="44" height="44" fill="rgb(255,245,240)" stroke="#777"/>
+<text x="275" y="96" font-size="12" font-family="Arial" fill="#333">0.00</text>
+<rect x="312" y="70" width="44" height="44" fill="rgb(255,245,240)" stroke="#777"/>
+<text x="319" y="96" font-size="12" font-family="Arial" fill="#333">0.00</text>
+<rect x="356" y="70" width="44" height="44" fill="rgb(255,245,240)" stroke="#777"/>
+<text x="363" y="96" font-size="12" font-family="Arial" fill="#333">0.00</text>
+<rect x="400" y="70" width="44" height="44" fill="rgb(255,245,240)" stroke="#777"/>
+<text x="407" y="96" font-size="12" font-family="Arial" fill="#333">0.00</text>
+<rect x="444" y="70" width="44" height="44" fill="rgb(255,245,240)" stroke="#777"/>
+<text x="451" y="96" font-size="12" font-family="Arial" fill="#333">0.00</text>
+<rect x="48" y="114" width="44" height="44" fill="rgb(255,245,240)" stroke="#777"/>
+<text x="55" y="140" font-size="12" font-family="Arial" fill="#333">0.00</text>
+<rect x="92" y="114" width="44" height="44" fill="rgb(255,245,240)" stroke="#777"/>
+<text x="99" y="140" font-size="12" font-family="Arial" fill="#333">0.00</text>
+<rect x="136" y="114" width="44" height="44" fill="rgb(255,245,240)" stroke="#777"/>
+<text x="143" y="140" font-size="12" font-family="Arial" fill="#333">0.00</text>
+<rect x="180" y="114" width="44" height="44" fill="rgb(255,245,240)" stroke="#777"/>
+<text x="187" y="140" font-size="12" font-family="Arial" fill="#333">0.00</text>
+<rect x="224" y="114" width="44" height="44" fill="rgb(255,233,222)" stroke="#777"/>
+<text x="231" y="140" font-size="12" font-family="Arial" fill="#333">0.03</text>
+<rect x="268" y="114" width="44" height="44" fill="rgb(255,245,240)" stroke="#777"/>
+<text x="275" y="140" font-size="12" font-family="Arial" fill="#333">0.00</text>
+<rect x="312" y="114" width="44" height="44" fill="#dcefdc" stroke="#777"/>
+<text x="319" y="140" font-size="12" font-family="Arial" fill="#333">0.00</text>
+<rect x="356" y="114" width="44" height="44" fill="#dcefdc" stroke="#777"/>
+<text x="363" y="140" font-size="12" font-family="Arial" fill="#333">0.00</text>
+<rect x="400" y="114" width="44" height="44" fill="rgb(255,245,240)" stroke="#777"/>
+<text x="407" y="140" font-size="12" font-family="Arial" fill="#333">0.00</text>
+<rect x="444" y="114" width="44" height="44" fill="rgb(255,245,240)" stroke="#777"/>
+<text x="451" y="140" font-size="12" font-family="Arial" fill="#333">0.00</text>
+<rect x="48" y="158" width="44" height="44" fill="#dcefdc" stroke="#777"/>
+<text x="55" y="184" font-size="12" font-family="Arial" fill="#333">0.00</text>
+<rect x="92" y="158" width="44" height="44" fill="rgb(255,245,240)" stroke="#777"/>
+<text x="99" y="184" font-size="12" font-family="Arial" fill="#333">0.00</text>
+<rect x="136" y="158" width="44" height="44" fill="#dcefdc" stroke="#777"/>
+<text x="143" y="184" font-size="12" font-family="Arial" fill="#333">0.00</text>
+<rect x="180" y="158" width="44" height="44" fill="rgb(255,245,240)" stroke="#777"/>
+<text x="187" y="184" font-size="12" font-family="Arial" fill="#333">0.00</text>
+<rect x="224" y="158" width="44" height="44" fill="rgb(255,197,168)" stroke="#777"/>
+<text x="231" y="184" font-size="12" font-family="Arial" fill="#333">0.11</text>
+<rect x="268" y="158" width="44" height="44" fill="rgb(255,245,240)" stroke="#777"/>
+<text x="275" y="184" font-size="12" font-family="Arial" fill="#333">0.00</text>
+<rect x="312" y="158" width="44" height="44" fill="rgb(255,245,240)" stroke="#777"/>
+<text x="319" y="184" font-size="12" font-family="Arial" fill="#333">0.00</text>
+<rect x="356" y="158" width="44" height="44" fill="rgb(255,245,240)" stroke="#777"/>
+<text x="363" y="184" font-size="12" font-family="Arial" fill="#333">0.00</text>
+<rect x="400" y="158" width="44" height="44" fill="rgb(255,245,240)" stroke="#777"/>
+<text x="407" y="184" font-size="12" font-family="Arial" fill="#333">0.00</text>
+<rect x="444" y="158" width="44" height="44" fill="rgb(255,245,240)" stroke="#777"/>
+<text x="451" y="184" font-size="12" font-family="Arial" fill="#333">0.00</text>
+<rect x="48" y="202" width="44" height="44" fill="#dcefdc" stroke="#777"/>
+<text x="55" y="228" font-size="12" font-family="Arial" fill="#333">0.00</text>
+<rect x="92" y="202" width="44" height="44" fill="rgb(255,245,240)" stroke="#777"/>
+<text x="99" y="228" font-size="12" font-family="Arial" fill="#333">0.00</text>
+<rect x="136" y="202" width="44" height="44" fill="rgb(255,245,240)" stroke="#777"/>
+<text x="143" y="228" font-size="12" font-family="Arial" fill="#333">0.00</text>
+<rect x="180" y="202" width="44" height="44" fill="rgb(255,245,240)" stroke="#777"/>
+<text x="187" y="228" font-size="12" font-family="Arial" fill="#333">0.00</text>
+<rect x="224" y="202" width="44" height="44" fill="rgb(255,125,60)" stroke="#777"/>
+<text x="231" y="228" font-size="12" font-family="Arial" fill="#333">0.28</text>
+<rect x="268" y="202" width="44" height="44" fill="rgb(255,245,240)" stroke="#777"/>
+<text x="275" y="228" font-size="12" font-family="Arial" fill="#333">0.00</text>
+<rect x="312" y="202" width="44" height="44" fill="rgb(255,245,240)" stroke="#777"/>
+<text x="319" y="228" font-size="12" font-family="Arial" fill="#333">0.00</text>
+<rect x="356" y="202" width="44" height="44" fill="rgb(255,245,240)" stroke="#777"/>
+<text x="363" y="228" font-size="12" font-family="Arial" fill="#333">0.00</text>
+<rect x="400" y="202" width="44" height="44" fill="rgb(255,245,240)" stroke="#777"/>
+<text x="407" y="228" font-size="12" font-family="Arial" fill="#333">0.00</text>
+<rect x="444" y="202" width="44" height="44" fill="rgb(255,245,240)" stroke="#777"/>
+<text x="451" y="228" font-size="12" font-family="Arial" fill="#333">0.00</text>
+<rect x="48" y="246" width="44" height="44" fill="rgb(255,245,240)" stroke="#777"/>
+<text x="55" y="272" font-size="12" font-family="Arial" fill="#333">0.00</text>
+<rect x="92" y="246" width="44" height="44" fill="rgb(255,233,222)" stroke="#777"/>
+<text x="99" y="272" font-size="12" font-family="Arial" fill="#333">0.03</text>
+<rect x="136" y="246" width="44" height="44" fill="#dcefdc" stroke="#777"/>
+<text x="143" y="272" font-size="12" font-family="Arial" fill="#333">0.11</text>
+<rect x="180" y="246" width="44" height="44" fill="#dcefdc" stroke="#777"/>
+<text x="187" y="272" font-size="12" font-family="Arial" fill="#333">0.28</text>
+<rect x="224" y="246" width="44" height="44" fill="#f7d8d8" stroke="#777"/>
+<text x="231" y="272" font-size="12" font-family="Arial" fill="#333">0.00</text>
+<text x="251" y="273" font-size="18" font-family="Arial" fill="#111">×</text>
+<rect x="268" y="246" width="44" height="44" fill="#dcefdc" stroke="#777"/>
+<text x="275" y="272" font-size="12" font-family="Arial" fill="#333">0.28</text>
+<rect x="270" y="248" width="40" height="40" fill="none" stroke="#111" stroke-width="3"/>
+<rect x="312" y="246" width="44" height="44" fill="rgb(255,197,168)" stroke="#777"/>
+<text x="319" y="272" font-size="12" font-family="Arial" fill="#333">0.11</text>
+<rect x="356" y="246" width="44" height="44" fill="rgb(255,233,222)" stroke="#777"/>
+<text x="363" y="272" font-size="12" font-family="Arial" fill="#333">0.03</text>
+<rect x="400" y="246" width="44" height="44" fill="rgb(255,245,240)" stroke="#777"/>
+<text x="407" y="272" font-size="12" font-family="Arial" fill="#333">0.00</text>
+<rect x="444" y="246" width="44" height="44" fill="#dcefdc" stroke="#777"/>
+<text x="451" y="272" font-size="12" font-family="Arial" fill="#333">0.00</text>
+<rect x="48" y="290" width="44" height="44" fill="rgb(255,245,240)" stroke="#777"/>
+<text x="55" y="316" font-size="12" font-family="Arial" fill="#333">0.00</text>
+<rect x="92" y="290" width="44" height="44" fill="rgb(255,245,240)" stroke="#777"/>
+<text x="99" y="316" font-size="12" font-family="Arial" fill="#333">0.00</text>
+<rect x="136" y="290" width="44" height="44" fill="rgb(255,245,240)" stroke="#777"/>
+<text x="143" y="316" font-size="12" font-family="Arial" fill="#333">0.00</text>
+<rect x="180" y="290" width="44" height="44" fill="rgb(255,245,240)" stroke="#777"/>
+<text x="187" y="316" font-size="12" font-family="Arial" fill="#333">0.00</text>
+<rect x="224" y="290" width="44" height="44" fill="rgb(255,125,60)" stroke="#777"/>
+<text x="231" y="316" font-size="12" font-family="Arial" fill="#333">0.28</text>
+<rect x="268" y="290" width="44" height="44" fill="rgb(255,245,240)" stroke="#777"/>
+<text x="275" y="316" font-size="12" font-family="Arial" fill="#333">0.00</text>
+<rect x="312" y="290" width="44" height="44" fill="rgb(255,245,240)" stroke="#777"/>
+<text x="319" y="316" font-size="12" font-family="Arial" fill="#333">0.00</text>
+<rect x="356" y="290" width="44" height="44" fill="#dcefdc" stroke="#777"/>
+<text x="363" y="316" font-size="12" font-family="Arial" fill="#333">0.00</text>
+<rect x="400" y="290" width="44" height="44" fill="rgb(255,245,240)" stroke="#777"/>
+<text x="407" y="316" font-size="12" font-family="Arial" fill="#333">0.00</text>
+<rect x="444" y="290" width="44" height="44" fill="#dcefdc" stroke="#777"/>
+<text x="451" y="316" font-size="12" font-family="Arial" fill="#333">0.00</text>
+<rect x="48" y="334" width="44" height="44" fill="rgb(255,245,240)" stroke="#777"/>
+<text x="55" y="360" font-size="12" font-family="Arial" fill="#333">0.00</text>
+<rect x="92" y="334" width="44" height="44" fill="rgb(255,245,240)" stroke="#777"/>
+<text x="99" y="360" font-size="12" font-family="Arial" fill="#333">0.00</text>
+<rect x="136" y="334" width="44" height="44" fill="rgb(255,245,240)" stroke="#777"/>
+<text x="143" y="360" font-size="12" font-family="Arial" fill="#333">0.00</text>
+<rect x="180" y="334" width="44" height="44" fill="#dcefdc" stroke="#777"/>
+<text x="187" y="360" font-size="12" font-family="Arial" fill="#333">0.00</text>
+<rect x="224" y="334" width="44" height="44" fill="rgb(255,197,168)" stroke="#777"/>
+<text x="231" y="360" font-size="12" font-family="Arial" fill="#333">0.11</text>
+<rect x="268" y="334" width="44" height="44" fill="rgb(255,245,240)" stroke="#777"/>
+<text x="275" y="360" font-size="12" font-family="Arial" fill="#333">0.00</text>
+<rect x="312" y="334" width="44" height="44" fill="rgb(255,245,240)" stroke="#777"/>
+<text x="319" y="360" font-size="12" font-family="Arial" fill="#333">0.00</text>
+<rect x="356" y="334" width="44" height="44" fill="rgb(255,245,240)" stroke="#777"/>
+<text x="363" y="360" font-size="12" font-family="Arial" fill="#333">0.00</text>
+<rect x="400" y="334" width="44" height="44" fill="rgb(255,245,240)" stroke="#777"/>
+<text x="407" y="360" font-size="12" font-family="Arial" fill="#333">0.00</text>
+<rect x="444" y="334" width="44" height="44" fill="#dcefdc" stroke="#777"/>
+<text x="451" y="360" font-size="12" font-family="Arial" fill="#333">0.00</text>
+<rect x="48" y="378" width="44" height="44" fill="rgb(255,245,240)" stroke="#777"/>
+<text x="55" y="404" font-size="12" font-family="Arial" fill="#333">0.00</text>
+<rect x="92" y="378" width="44" height="44" fill="rgb(255,245,240)" stroke="#777"/>
+<text x="99" y="404" font-size="12" font-family="Arial" fill="#333">0.00</text>
+<rect x="136" y="378" width="44" height="44" fill="rgb(255,245,240)" stroke="#777"/>
+<text x="143" y="404" font-size="12" font-family="Arial" fill="#333">0.00</text>
+<rect x="180" y="378" width="44" height="44" fill="rgb(255,245,240)" stroke="#777"/>
+<text x="187" y="404" font-size="12" font-family="Arial" fill="#333">0.00</text>
+<rect x="224" y="378" width="44" height="44" fill="rgb(255,233,222)" stroke="#777"/>
+<text x="231" y="404" font-size="12" font-family="Arial" fill="#333">0.03</text>
+<rect x="268" y="378" width="44" height="44" fill="#dcefdc" stroke="#777"/>
+<text x="275" y="404" font-size="12" font-family="Arial" fill="#333">0.00</text>
+<rect x="312" y="378" width="44" height="44" fill="#dcefdc" stroke="#777"/>
+<text x="319" y="404" font-size="12" font-family="Arial" fill="#333">0.00</text>
+<rect x="356" y="378" width="44" height="44" fill="#dcefdc" stroke="#777"/>
+<text x="363" y="404" font-size="12" font-family="Arial" fill="#333">0.00</text>
+<rect x="400" y="378" width="44" height="44" fill="rgb(255,245,240)" stroke="#777"/>
+<text x="407" y="404" font-size="12" font-family="Arial" fill="#333">0.00</text>
+<rect x="444" y="378" width="44" height="44" fill="rgb(255,245,240)" stroke="#777"/>
+<text x="451" y="404" font-size="12" font-family="Arial" fill="#333">0.00</text>
+<rect x="48" y="422" width="44" height="44" fill="#dcefdc" stroke="#777"/>
+<text x="55" y="448" font-size="12" font-family="Arial" fill="#333">0.00</text>
+<rect x="92" y="422" width="44" height="44" fill="#dcefdc" stroke="#777"/>
+<text x="99" y="448" font-size="12" font-family="Arial" fill="#333">0.00</text>
+<rect x="136" y="422" width="44" height="44" fill="rgb(255,245,240)" stroke="#777"/>
+<text x="143" y="448" font-size="12" font-family="Arial" fill="#333">0.00</text>
+<rect x="180" y="422" width="44" height="44" fill="rgb(255,245,240)" stroke="#777"/>
+<text x="187" y="448" font-size="12" font-family="Arial" fill="#333">0.00</text>
+<rect x="224" y="422" width="44" height="44" fill="rgb(255,245,240)" stroke="#777"/>
+<text x="231" y="448" font-size="12" font-family="Arial" fill="#333">0.00</text>
+<rect x="268" y="422" width="44" height="44" fill="rgb(255,245,240)" stroke="#777"/>
+<text x="275" y="448" font-size="12" font-family="Arial" fill="#333">0.00</text>
+<rect x="312" y="422" width="44" height="44" fill="rgb(255,245,240)" stroke="#777"/>
+<text x="319" y="448" font-size="12" font-family="Arial" fill="#333">0.00</text>
+<rect x="356" y="422" width="44" height="44" fill="rgb(255,245,240)" stroke="#777"/>
+<text x="363" y="448" font-size="12" font-family="Arial" fill="#333">0.00</text>
+<rect x="400" y="422" width="44" height="44" fill="rgb(255,245,240)" stroke="#777"/>
+<text x="407" y="448" font-size="12" font-family="Arial" fill="#333">0.00</text>
+<rect x="444" y="422" width="44" height="44" fill="#dcefdc" stroke="#777"/>
+<text x="451" y="448" font-size="12" font-family="Arial" fill="#333">0.00</text>
+<rect x="48" y="466" width="44" height="44" fill="rgb(255,245,240)" stroke="#777"/>
+<text x="55" y="492" font-size="12" font-family="Arial" fill="#333">0.00</text>
+<rect x="92" y="466" width="44" height="44" fill="rgb(255,245,240)" stroke="#777"/>
+<text x="99" y="492" font-size="12" font-family="Arial" fill="#333">0.00</text>
+<rect x="136" y="466" width="44" height="44" fill="rgb(255,245,240)" stroke="#777"/>
+<text x="143" y="492" font-size="12" font-family="Arial" fill="#333">0.00</text>
+<rect x="180" y="466" width="44" height="44" fill="rgb(255,245,240)" stroke="#777"/>
+<text x="187" y="492" font-size="12" font-family="Arial" fill="#333">0.00</text>
+<rect x="224" y="466" width="44" height="44" fill="rgb(255,245,240)" stroke="#777"/>
+<text x="231" y="492" font-size="12" font-family="Arial" fill="#333">0.00</text>
+<rect x="268" y="466" width="44" height="44" fill="rgb(255,245,240)" stroke="#777"/>
+<text x="275" y="492" font-size="12" font-family="Arial" fill="#333">0.00</text>
+<rect x="312" y="466" width="44" height="44" fill="rgb(255,245,240)" stroke="#777"/>
+<text x="319" y="492" font-size="12" font-family="Arial" fill="#333">0.00</text>
+<rect x="356" y="466" width="44" height="44" fill="rgb(255,245,240)" stroke="#777"/>
+<text x="363" y="492" font-size="12" font-family="Arial" fill="#333">0.00</text>
+<rect x="400" y="466" width="44" height="44" fill="rgb(255,245,240)" stroke="#777"/>
+<text x="407" y="492" font-size="12" font-family="Arial" fill="#333">0.00</text>
+<rect x="444" y="466" width="44" height="44" fill="rgb(255,245,240)" stroke="#777"/>
+<text x="451" y="492" font-size="12" font-family="Arial" fill="#333">0.00</text>
+</svg>
